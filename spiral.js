@@ -5,9 +5,9 @@ function getSpiral(arr) {
   // but the algoritm should also work with non square matrixes.
 
   let minX = 0,
-minY = 0,
-maxX = arrayWidth - 1,
-maxY = arrayHeight - 1;
+      minY = 0,
+      maxX = arrayWidth - 1,
+      maxY = arrayHeight - 1;
   const answer = [];
   while (minX !== maxX) {
     for (let i = minX; i <= maxX; i++) {
