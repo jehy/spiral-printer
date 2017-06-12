@@ -7,5 +7,6 @@
 * Set `spiral` in printer.js to your matrix 
 * Run `npm start`
 
-##Sample
+## Sample
+
 ![5x5 matrix](demo.png)
